@@ -1,0 +1,26 @@
+---
+title: "Instalação e execução do swirl"
+author: "Monique e Matheus"
+date: "October 25, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Para instalar o pacote `swirl`, basta executar o comando abaixo. Este comando instala o pacote na sua máquina. As aspas são obrigatórias. Uma vez instalado, não precisa executar de novo.
+
+```{r}
+install.packages('swirl')
+```
+
+Para carregar o pacote, use `{r}library(swirl)` ou `{r}library('swirl')`. Este comando ativa o pacote na sessão aberta do R e deve ser executado sempre que se reinicia o programa. As aspas são opcionais. 
+
+Para começar o tutorial, após executar o comando acima, digite:
+
+```{r}
+swirl()
+```
