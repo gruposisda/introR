@@ -4,7 +4,7 @@ Monique Oliveira
 
 Matheus Ferraciolli
 
-O curso está sendo pensado para quem está tendo o primeiro contato com R. O objetivo é abrir portas para que as usarem a ferramenta como precisarem. Serão vistos conceitos básicos desde a interface do software RStudio e como usar a ajuda do R, até a manipulação de dados e a confecção de gráficos.
+O curso foi pensado para um primeiro contato com R. O objetivo é abrir portas para que as usarem a ferramenta como precisarem. Serão vistos conceitos básicos desde a interface do software RStudio e como usar a ajuda do R, até a manipulação de dados e a confecção de gráficos.
 
 ### R para Windows: [Link R](https://cran.r-project.org/bin/windows/base/R-3.5.1-win.exe)
 
