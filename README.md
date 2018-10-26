@@ -12,6 +12,8 @@ O curso foi pensado para um primeiro contato com R. O objetivo é abrir portas p
 
 ### Rstudio para Windows: [Link RStudio](https://download1.rstudio.org/RStudio-1.1.456.exe)
 
+**Se alguém quiser instalar no Linux e não conseguir, me mande um email: matheus.ferraciolli@gmail.com**
+
 ## Instalação e execução do `swirl`
 
 Para instalar o pacote `swirl`, basta executar o comando abaixo. Este comando instala o pacote na sua máquina. As aspas são obrigatórias. Uma vez instalado, não precisa executar de novo.
