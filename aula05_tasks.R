@@ -1,4 +1,4 @@
-#install.packages('nycvoos13')
+#install.packages('nycflights13')
 #install.packages('tidyverse')
 
 
@@ -42,7 +42,7 @@
 
 
 # group_by and summarise ------------------------------------------------
-
+  
 
 # gráfico chique ----------------------------------------------------------
 
