@@ -32,6 +32,14 @@ swirl()
 
 Em seguida, siga o tutorial que vai começar na tela. Coloque um nome que lembre para continuar de onde parou e manter o progresso de cada sessão. Recomendamos fazer as sessões de **1 a 4** para a aula do dia 30.
 
+## Aula 05
+
+### Referência
+https://r4ds.had.co.nz/transform.html
+### Documentação do pacote
+https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf
+
+
 ## Tópicos:
 
 1. Introdução, help, variáveis e tipos
