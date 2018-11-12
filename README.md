@@ -39,6 +39,10 @@ https://r4ds.had.co.nz/transform.html
 ### Documentação do pacote
 https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf
 
+## Aula 06
+
+Dados: https://www.dropbox.com/s/dj30dopdqreqdfh/athlete_events.csv?dl=0
+
 
 ## Tópicos:
 
